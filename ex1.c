@@ -1,5 +1,5 @@
-#include<stduio.h>
+#include<stdio.h>
 
 int main (void){
-    printf("Hello World")
+    printf("İYİ AKŞAMLAR");
 }
