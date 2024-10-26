@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Taha/github-classroom/FiratUniversity-IJDP-SoftEng/c-exercises-s1-itahapinar",
-      "program": "c:/Users/Taha/github-classroom/FiratUniversity-IJDP-SoftEng/c-exercises-s1-itahapinar/build/Debug/outDebug",
+      "cwd": "c:/Users/Taha/Desktop/New folder/c-exercises-s1-itahapinar",
+      "program": "c:/Users/Taha/Desktop/New folder/c-exercises-s1-itahapinar/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
