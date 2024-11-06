@@ -7,7 +7,7 @@ int main(void) {
     printf("Your guess is correct.");
   }
   else{
-    printf("Your guess is wrong!12.");
+    printf("Your guess is wrong!.");
   }
   
  return 0;
